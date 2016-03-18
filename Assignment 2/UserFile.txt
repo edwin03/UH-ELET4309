@@ -1,0 +1,4 @@
+Manufacturer,January,February,March,April,May,June,July,August,September,October,November,December
+Acura,302,987,961,377,953,909,758,31,288,319,823,463
+Audi,164,423,785,532,277,151,926,876,31,949,439,812
+BMW,9,290,302,60,715,898,303,490,367,665,183,790
